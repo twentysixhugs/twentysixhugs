@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @twentysixhugs
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: iaan.lamanosau@pm.me
 
 <!---
