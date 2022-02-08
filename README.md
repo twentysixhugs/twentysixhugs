@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @twentysixhugs
+- 👋 Hi, I’m @twentysixhugs. Passionate about learning web development and building new things
 - 📫 How to reach me: iaan.lamanosau@protonmail.com (main)
 - 📫 Or keetled3@gmail.com
 
