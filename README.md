@@ -4,4 +4,9 @@
 - MINSK, BY
 
 ### Portfolio
-- [https://github.com/twentysixhugs/weather-app](Weather app)
+##### Vanilla JS
+- [Weather app](https://github.com/twentysixhugs/weather-app)
+- [Battleship game (In progress)](https://github.com/twentysixhugs/Battleship)
+
+##### HTML/CSS
+- [Admin Dasboard](https://github.com/twentysixhugs/admin-dashboard)
