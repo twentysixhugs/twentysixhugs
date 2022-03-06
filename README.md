@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Iaan Lamanosau. Passionate about learning web development and building new things
-- 📫 How to reach me: iaan.lamanosau@protonmail.com (main)
+### What? Who am I?
+- 👋 Hi, I’m Iaan Lamanosau. Extremely passionate about learning web development and building new things. Currently studying it full-time.
+- 📫 How to reach me: iaan.lamanosau@protonmail.com
 
 - MINSK, BY
 
