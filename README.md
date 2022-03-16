@@ -7,7 +7,7 @@
 ### Portfolio
 ##### Vanilla JS
 - [Weather App](https://github.com/twentysixhugs/weather-app)
-- [Battleship Game](https://github.com/twentysixhugs/Battleship)
+- [Battleship Game (Морской бой)](https://github.com/twentysixhugs/Battleship)
 
 ##### HTML/CSS
 - [Admin Dashboard](https://github.com/twentysixhugs/admin-dashboard)
