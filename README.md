@@ -1,6 +1,7 @@
 ### What? Who am I?
-- 👋 Hi, I’m Iaan Lamanosau. I'm passionate about learning web development and building new things. Currently studying full-time.
-- 📫 How to reach me: iaan.lamanosau@gmail.com
+- 👋 I’m Iaan Lamanosau. I'm passionate about web development and building new things. Currently studying full-time.
+- 🧠 I enjoy self-control and self-development, they are literally the philosophy of my life.
+- 📫 Contact me: iaan.lamanosau@gmail.com
 
 - Live in Minsk, Belarus
 
