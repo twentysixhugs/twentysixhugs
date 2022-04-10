@@ -9,7 +9,7 @@
 ##### React
 - [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
 
-##### Vanilla JS
+##### Native JS
 - [Weather App](https://github.com/twentysixhugs/Weather-app)
 - [Battleship Game (Морской бой)](https://github.com/twentysixhugs/Battleship)
 
