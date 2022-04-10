@@ -11,7 +11,7 @@
 
 ##### Native JS
 - [Weather App](https://github.com/twentysixhugs/Weather-app)
-- [Battleship Game (Морской бой)](https://github.com/twentysixhugs/Battleship)
+- [Battleship Game (Морской бой)](https://github.com/twentysixhugs/Battleship) (with unit tests)
 
 ##### HTML/CSS
 - [Admin Dashboard](https://github.com/twentysixhugs/Admin-dashboard)
