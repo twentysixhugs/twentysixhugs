@@ -14,6 +14,3 @@
 
 ##### Native JS + unit tests (TDD)
 - [Battleship Game (Морской бой)](https://github.com/twentysixhugs/Battleship)
-
-##### HTML/CSS
-- [Admin Dashboard](https://github.com/twentysixhugs/Admin-dashboard)
