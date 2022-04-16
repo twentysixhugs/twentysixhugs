@@ -9,6 +9,9 @@
 ##### React
 - [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
 
+##### React+Typescript
+- [Shopping cart](https://github.com/twentysixhugs/shopping-cart)
+
 ##### Native JS
 - [Weather App](https://github.com/twentysixhugs/Weather-app)
 
