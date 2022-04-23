@@ -5,7 +5,7 @@
 
 - Live in Minsk, Belarus
 
-### My Projects c:
+### My Projects
 ##### React
 - [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
 
