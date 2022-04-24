@@ -9,7 +9,7 @@
 ##### React
 - [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
 
-##### React+Typescript
+##### React, Typescript, React Router
 - [Shopping cart](https://github.com/twentysixhugs/shopping-cart)
 
 ##### Native JS
