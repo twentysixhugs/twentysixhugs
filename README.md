@@ -14,6 +14,9 @@
 ##### React, Typescript, React Router
 - [Shopping cart](https://github.com/twentysixhugs/shopping-cart)
 
+##### React, Typescript, Firebase
+- [Library App](https://github.com/twentysixhugs/library-app)
+
 ##### Native JS
 - [Weather App](https://github.com/twentysixhugs/Weather-app)
 
