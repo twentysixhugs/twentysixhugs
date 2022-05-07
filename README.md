@@ -8,14 +8,15 @@
 - Live in Minsk, Belarus
 
 ### My Projects
-##### React
-- [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
-
 ##### React, Typescript, React Router
 - [Shopping cart](https://github.com/twentysixhugs/shopping-cart)
 
 ##### React, Typescript, Firebase
-- [Library App](https://github.com/twentysixhugs/library-app)
+- [Photo tagging app](https://github.com/twentysixhugs/photo-tagging-app)
+- [Book collection manager](https://github.com/twentysixhugs/library-app)
+
+##### React
+- [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
 
 ##### Native JS
 - [Weather App](https://github.com/twentysixhugs/Weather-app)
