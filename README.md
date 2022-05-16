@@ -18,7 +18,7 @@
 ##### React
 - [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
 
-##### Node.js (Express)
+##### Node.js, Express
 - [Mini message board](https://github.com/twentysixhugs/mini-message-board)
 
 ##### Native JS + unit tests (Built with TDD)
