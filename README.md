@@ -18,8 +18,9 @@
 ##### React
 - [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
 
-##### Native JS
-- [Weather App](https://github.com/twentysixhugs/Weather-app)
 
-##### Native JS + unit tests (TDD)
+##### Native JS + unit tests (Built with TDD)
 - [Battleship Game (Морской бой)](https://github.com/twentysixhugs/Battleship)
+
+##### Native JS
+- [Weather App](https://github.com/twentysixhugs/Weather-app
