@@ -8,21 +8,16 @@
 - Minsk, BY
 
 ### My Projects
-##### React, Typescript, React Router
-- [Shopping cart](https://github.com/twentysixhugs/shopping-cart)
-
-##### React, Typescript, Firebase
-- [Photo tagging app](https://github.com/twentysixhugs/photo-tagging-app)
-- [Book collection manager](https://github.com/twentysixhugs/library-app)
-
 ##### React
-- [Memory Game](https://github.com/twentysixhugs/Memory-Cards-Game)
+- [Shopping cart (React, TypeScript, React Router)](https://github.com/twentysixhugs/shopping-cart)
+- [Photo tagging app (React, TypeScript, Firebase)](https://github.com/twentysixhugs/photo-tagging-app)
+- [Book collection manager (React, TypeScript, Firebase)](https://github.com/twentysixhugs/library-app)
+- [Memory Game (React)](https://github.com/twentysixhugs/Memory-Cards-Game)
 
-##### Node.js, Express
-- [Mini message board](https://github.com/twentysixhugs/mini-message-board)
-
-##### Native JS + unit tests (Built with TDD)
-- [Battleship Game (Морской бой)](https://github.com/twentysixhugs/Battleship)
+##### Node.js
+- [Mini message board (Express)](https://github.com/twentysixhugs/mini-message-board)
 
 ##### Native JS
+- [Battleship Game - Морской бой (A lot of unit tests, build with TDD approach)](https://github.com/twentysixhugs/Battleship)
 - [Weather App](https://github.com/twentysixhugs/Weather-app)
+
