@@ -18,6 +18,6 @@
 - [Mini message board (Express)](https://github.com/twentysixhugs/mini-message-board)
 
 ##### Native JS
-- [Battleship Game - Морской бой (A lot of unit tests, build with TDD approach)](https://github.com/twentysixhugs/Battleship)
+- [Battleship Game - Морской бой](https://github.com/twentysixhugs/Battleship)
 - [Weather App](https://github.com/twentysixhugs/Weather-app)
 
