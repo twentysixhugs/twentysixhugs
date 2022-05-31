@@ -15,8 +15,8 @@
 <h3 align="center">My projects</h3>
 
 ##### React
-- [Shopping cart (React, TypeScript, React Router)](https://github.com/twentysixhugs/shopping-cart)
 - [Photo tagging app (React, TypeScript, Firebase)](https://github.com/twentysixhugs/photo-tagging-app)
+- [Shopping cart (React, TypeScript, React Router)](https://github.com/twentysixhugs/shopping-cart)
 - [Book collection manager (React, TypeScript, Firebase)](https://github.com/twentysixhugs/library-app)
 - [Memory Game (React)](https://github.com/twentysixhugs/Memory-Cards-Game)
 
