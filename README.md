@@ -20,8 +20,8 @@
 - [Book collection manager (React, TypeScript, Firebase)](https://github.com/twentysixhugs/library-app)
 - [Memory Game (React)](https://github.com/twentysixhugs/Memory-Cards-Game)
 
-##### Node.js
-- [Mini message board (Express)](https://github.com/twentysixhugs/mini-message-board)
+##### Node.js/Express
+- [Mini message board](https://github.com/twentysixhugs/mini-message-board)
 
 ##### Native JS
 - [Battleship Game - Морской бой](https://github.com/twentysixhugs/Battleship)
