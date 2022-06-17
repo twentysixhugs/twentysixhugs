@@ -15,7 +15,7 @@
 <h3 align="center">My projects</h3>
 
 ##### React/Express
-- [Fullstack blog app with separate CMS](https://github.com/twentysixhugs/blog-api)
+- [Fullstack blog app with separate CMS (React, Express, TypeScript, React Router)](https://github.com/twentysixhugs/blog-api)
 
 ##### React
 - [Photo tagging app (React, TypeScript, Firebase)](https://github.com/twentysixhugs/photo-tagging-app)
