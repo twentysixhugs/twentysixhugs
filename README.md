@@ -26,6 +26,9 @@
 ##### Node.js/Express/MongoDB
 - [A private club app](https://github.com/twentysixhugs/private-club)
 
+##### TypeScript
+- [Calculator](https://github.com/twentysixhugs/calculator)
+
 ##### Native JS
 - [Battleship Game - Морской бой](https://github.com/twentysixhugs/Battleship)
 - [Weather App](https://github.com/twentysixhugs/Weather-app)
