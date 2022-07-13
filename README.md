@@ -18,7 +18,6 @@
 - [Fullstack blog app with separate CMS (React, Express, TypeScript, React Router)](https://github.com/twentysixhugs/blog-api)
 
 ##### React
-- [Clever to do list with calendar and authorization (React, TypeScript, Firebase)](https://github.com/twentysixhugs/innowise-clever-to-do-list)
 - [Photo tagging app (React, TypeScript, Firebase)](https://github.com/twentysixhugs/photo-tagging-app)
 - [Shopping cart (React, TypeScript, React Router)](https://github.com/twentysixhugs/shopping-cart)
 - [Book collection manager (React, TypeScript, Firebase)](https://github.com/twentysixhugs/library-app)
@@ -26,9 +25,6 @@
 
 ##### Node.js/Express/MongoDB
 - [A private club app](https://github.com/twentysixhugs/private-club)
-
-##### TypeScript
-- [Calculator](https://github.com/twentysixhugs/calculator)
 
 ##### Native JS
 - [Battleship Game - Морской бой](https://github.com/twentysixhugs/Battleship)
