@@ -8,7 +8,6 @@
 
 ### My projects
 
-- [Fullstack blog app with CMS](https://github.com/twentysixhugs/blog-api)
 - [Clever to do list](https://github.com/twentysixhugs/innowise-clever-to-do-list)
 - [Photo tagging app](https://github.com/twentysixhugs/photo-tagging-app)
 - [A private club](https://github.com/twentysixhugs/private-club)
