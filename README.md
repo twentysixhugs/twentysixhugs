@@ -11,6 +11,7 @@
 - [Clever to do list](https://github.com/twentysixhugs/innowise-clever-to-do-list)
 - [Photo tagging app](https://github.com/twentysixhugs/photo-tagging-app)
 - [A private club](https://github.com/twentysixhugs/private-club)
+- [Fully-fledged fullstack blog with CMS](https://github.com/twentysixhugs/blog-api)
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">  
