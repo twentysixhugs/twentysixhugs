@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iaan Lamanosau, a frontend developer.</h1>
+<h1 align="center">Hi 👋, I'm Iaan Lamanosau, a fullstack developer.</h1>
 <h3 align="center">I adopted self-discipline as the philosophy of life, and it became my main driving force</h3>
 
 ### Connect with me
