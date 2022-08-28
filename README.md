@@ -4,7 +4,6 @@
 ### Connect with me
  - Email: iaan.lamanosau@gmail.com
  - Telegram: https://t.me/iaan_lamanosau
- - Linkedin: https://linkedin.com/in/iaan-lamanosau
 
 ### My projects
 
