@@ -3,7 +3,7 @@
 
 ### Connect with me
  - Email: iaan.lamanosau@gmail.com
- - Telegram: https://t.me/iaan_lamanosau
+ - Telegram: https://t.me/horrorsharp
 
 ### My projects
 
