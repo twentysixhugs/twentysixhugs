@@ -3,7 +3,7 @@
 
 ### Connect with me
  - Email: iaan.lamanosau@gmail.com
- - Telegram: https://t.me/horrorsharp
+ - Telegram: https://t.me/twentysixhugs
 
 
 <h3 align="center">Languages and Tools:</h3>
